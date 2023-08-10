@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3529a00-46b4-4f36-b4fe-8759372d0ba3" name="Changes" comment="third commit">
+    <list default="true" id="f3529a00-46b4-4f36-b4fe-8759372d0ba3" name="Changes" comment="fourth commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
@@ -113,7 +113,7 @@
       <workItem from="1690193284428" duration="596000" />
       <workItem from="1690460951496" duration="9000" />
       <workItem from="1691662939806" duration="1208000" />
-      <workItem from="1691664697998" duration="2975000" />
+      <workItem from="1691664697998" duration="4683000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -171,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691666074034</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fourth commit">
+      <option name="closed" value="true" />
+      <created>1691667936698</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1691667936698</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +190,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="second commit" />
     <MESSAGE value="third commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
+    <MESSAGE value="fourth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="fourth commit" />
   </component>
 </project>
