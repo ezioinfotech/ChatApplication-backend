@@ -1,0 +1,12 @@
+/home/vedant/Backend Projects/New/ChatApplication/src/main/java/com/example/ChatApplication/handler/ResponseHandler.java
+/home/vedant/Backend Projects/New/ChatApplication/src/main/java/com/example/ChatApplication/loginandregistration/entity/User.java
+/home/vedant/Backend Projects/New/ChatApplication/src/main/java/com/example/ChatApplication/loginandregistration/config/SecurityConfig.java
+/home/vedant/Backend Projects/New/ChatApplication/src/main/java/com/example/ChatApplication/loginandregistration/exceptions/LoginExceptionHandler.java
+/home/vedant/Backend Projects/New/ChatApplication/src/main/java/com/example/ChatApplication/loginandregistration/repository/UserRepository.java
+/home/vedant/Backend Projects/New/ChatApplication/src/main/java/com/example/ChatApplication/loginandregistration/service/UserService.java
+/home/vedant/Backend Projects/New/ChatApplication/src/main/java/com/example/ChatApplication/loginandregistration/dto/UserDTO.java
+/home/vedant/Backend Projects/New/ChatApplication/src/main/java/com/example/ChatApplication/loginandregistration/exceptions/LoginExceptions.java
+/home/vedant/Backend Projects/New/ChatApplication/src/main/java/com/example/ChatApplication/loginandregistration/controller/UserController.java
+/home/vedant/Backend Projects/New/ChatApplication/src/main/java/com/example/ChatApplication/loginandregistration/service/UserImpl.java
+/home/vedant/Backend Projects/New/ChatApplication/src/main/java/com/example/ChatApplication/ChatApplication.java
+/home/vedant/Backend Projects/New/ChatApplication/src/main/java/com/example/ChatApplication/loginandregistration/exceptions/model/ErrorModel.java
