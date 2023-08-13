@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3529a00-46b4-4f36-b4fe-8759372d0ba3" name="Changes" comment="twelfth commit">
+    <list default="true" id="f3529a00-46b4-4f36-b4fe-8759372d0ba3" name="Changes" comment="fourteenth commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +118,7 @@
       <workItem from="1691734535163" duration="3003000" />
       <workItem from="1691751289700" duration="267000" />
       <workItem from="1691752091272" duration="611000" />
-      <workItem from="1691916621560" duration="3432000" />
+      <workItem from="1691916621560" duration="4465000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -273,7 +272,23 @@
       <option name="project" value="LOCAL" />
       <updated>1691919615707</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="thirteenth commit">
+      <option name="closed" value="true" />
+      <created>1691920203171</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1691920203171</updated>
+    </task>
+    <task id="LOCAL-00021" summary="fourteenth commit">
+      <option name="closed" value="true" />
+      <created>1691920403708</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1691920403708</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,6 +319,8 @@
     <MESSAGE value="tenth commit" />
     <MESSAGE value="eleventh commit" />
     <MESSAGE value="twelfth commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="twelfth commit" />
+    <MESSAGE value="thirteenth commit" />
+    <MESSAGE value="fourteenth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="fourteenth commit" />
   </component>
 </project>
